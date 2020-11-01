@@ -1,0 +1,93 @@
+.body{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.navigation{
+    background-color: rgba(0, 0, 0, 0.37);
+}
+
+.header{
+    height: 100vh;
+    background: url('singer5.jpg');
+    background-size: cover;
+    background-position: top;
+
+}
+
+.header_box{
+position: absolute;
+top:30%;
+left: 8%;
+transition: transforn(-50% , -50%);
+text-align: center;
+}
+
+.header_heading{
+color:white;
+font-weight: 900;
+letter-spacing: 4px;
+word-spacing: 2px;
+}
+
+.header_subheading{
+
+    color:white;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    word-spacing: 2px;
+}
+
+.about_event{
+    height: 90vh;
+    padding: 5rem 0rem;
+    background-color: rgba(255, 255, 255, 0.205);
+}
+.speakers{
+    background-color:rgba(231, 226, 226, 0.411) ;
+    padding:4rem 5rem;
+}
+
+.parallax {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.349) , rgba(0, 0, 0, 0.26)), url('map-background.jpeg');
+    height: 550px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .section1{
+
+
+  }
+  .section2{
+
+  }
+
+  .parllax_heading{
+
+  }
+
+  .parllax_text{
+
+  }
+
+  .form{
+
+    background-image: linear-gradient(to right , #11998e,#38ef7d);
+    height:100rem;
+  }
+
+  .registration{
+    position: absolute;
+    top:20%;
+    left:15%;
+    width:70%;
+  }
+
+  .cells{
+      position: absolute;
+      top:800px;
+  }
